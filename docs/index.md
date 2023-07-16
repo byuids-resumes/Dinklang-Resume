@@ -33,14 +33,14 @@ __Pacific Northwest National Lab__, Richland, WA
 - Used R and Visual Sample Plan to establish new sampling algorithms
 - Published a journal article in Environmental Quality.
 
-### Data Science Lead
+### Other experience
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`January 2020 - December 2022`
+__Amazon__, Air Associate
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- DFacilitated air-to-ground operations under Aviation Security by troubleshooting hardware components.
+- Collaborated with air-to-ground teams by identifying issues with relocation processes and ensuring complete resolution. 
+- Improved process speed to 85%.
 
 `September 2027 - April 2028`
 __Good2Go__, Consultant
