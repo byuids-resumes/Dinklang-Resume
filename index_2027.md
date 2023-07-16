@@ -68,7 +68,6 @@ __Pinnacle Management Group__,
 ## Service and Work History
 
 
-
 `2020-2021`
 __Service Missionary__, Lima, Peru
 
