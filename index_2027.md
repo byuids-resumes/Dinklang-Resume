@@ -2,12 +2,12 @@
 layout: resume
 title: Brigham Young's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Sandro Dinklang
+CS Student @ BYUI
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+| <a href="https://byuidatascience.github.io/development.html">Computer Science Program</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -15,15 +15,10 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- 3.72 Major GPA
 
 
 ## Related Experience
@@ -72,12 +67,10 @@ __Pinnacle Management Group__,
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`2020-2021`
+__Service Missionary__, Lima, Peru
 
 
 
