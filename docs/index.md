@@ -51,7 +51,7 @@ __Good2Go__, Consultant
 
 ### Data Science Consulting Team
 
-`January 2027 - April 2027`
+`January 2027 - April 2027` <!-- Consider changing the date-->
 __Imagine Learning__
 
 - Build web scraping tool to find and format school district technology data.
